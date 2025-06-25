@@ -1,6 +1,6 @@
 # KHFM - Voces en Castellano
 
-![PORTADA jpg](https://github.com/user-attachments/assets/cac71017-f182-4234-81e3-69c40aa61653)
+![PORTADA jpg](https://github.com/EcosDelDoblaje/KHESPMIX/blob/main/preview.png?raw=true)
 
 ### 🌐 URLs:
 
@@ -49,7 +49,8 @@
 5. Marca el Mod con la X, si no está marcado.
 6. En `Mod Loader`, selecciona `Build and Run` (o `Build Only` y abre el juego normal).
 7. ¡Disfruta!
-**EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES**
+   
+ **❗❗EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES❗❗**
 
 ### 🎞️ Instrucciones videos (opcionales):
 
@@ -173,8 +174,6 @@ Las texturas incluidas en este repositorio han sido editadas únicamente para fi
 ### Nota importante
 
 Este proyecto es un mod de fans, sin ánimo de lucro y sin relación oficial con Square Enix ni Disney.
-
-Si eres titular de derechos y deseas la retirada de algún contenido, contacta a [tu email/contacto].
 
 ---
 
