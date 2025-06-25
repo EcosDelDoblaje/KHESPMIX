@@ -1,6 +1,6 @@
 # KHFM - Voces en Castellano
 
-![PORTADA jpg](https://github.com/user-attachments/assets/cac71017-f182-4234-81e3-69c40aa61653)
+![PORTADA jpg](https://github.com/EcosDelDoblaje/KHESPMIX/blob/main/preview.png?raw=true)
 
 ### 🌐 URLs:
 
