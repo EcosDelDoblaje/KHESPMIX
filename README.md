@@ -49,7 +49,8 @@
 5. Marca el Mod con la X, si no está marcado.
 6. En `Mod Loader`, selecciona `Build and Run` (o `Build Only` y abre el juego normal).
 7. ¡Disfruta!
-**EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES**
+   
+ **❗❗EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES❗❗**
 
 ### 🎞️ Instrucciones videos (opcionales):
 
