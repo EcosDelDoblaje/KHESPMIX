@@ -21,10 +21,10 @@
 
 - ✔️ 100% Escenas prerenderizadas.
 - ✔️ 100% Texturas.
-- 🕒 86% Batallas.
+- ✔️ 100% Batallas.
 - ✔️ 100% Islas del Destino.
 - ✔️ 100% Castillo Disney.
-- 🕒 99% Ciudad de Paso.
+- ✔️ 100% Ciudad de Paso.
 - ✔️ 100% País de las Maravillas.
 - ✔️ 100% Coliseo.
 - ✔️ 100% Selva Profunda.
@@ -34,8 +34,8 @@
 - ✔️ 100% Ciudad de Halloween.
 - ✔️ 100% Atlántica.
 - ✔️ 100% País de Nunca Jamás.
-- 🕒 68% Bastión Hueco.
-- 🕒 56% Fin del Mundo.
+- ✔️ 100% Bastión Hueco.
+- ✔️ 100% Fin del Mundo.
 
 **📜 Subtitulos adaptados al doblaje: 🕒45%**
 
@@ -44,15 +44,18 @@
 
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
-3. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `Yokimitsuro/KHFMSpanish`.
-4. En `Mod Loader`, selecciona `Build and Run` (o `Build Only`).
-5. ¡Disfruta!
+3. Selecciona `Kingdom hearts 1` en la pestaña de arriba a la izquierda.
+4. Ve a `Mods -> Install a new mod` y escribe lo siguiente: `EcosDelDoblaje/KHESPMIX`.
+5. Marca el Mod con la X, si no está marcado.
+6. En `Mod Loader`, selecciona `Build and Run` (o `Build Only` y abre el juego normal).
+7. ¡Disfruta!
+**EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES**
 
 ### 🎞️ Instrucciones videos (opcionales):
 
-- [**Canciones en Español**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_ESP.zip)  
-- [**Canciones en Inglés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_EN.zip)  
-- [**Canciones en Japonés**](https://github.com/Yokimitsuro/KHFMSpanish/releases/download/Videos/KHFMSpanishMix_Cinematicas_JP.zip)  
+- [**Canciones en Español**](https://github.com/EcosDelDoblaje/KHESPMIX/releases/download/V1.0/KHFMSpanishMix_Cinematicas_ESP.zip)  
+- [**Canciones en Inglés**](https://github.com/EcosDelDoblaje/KHESPMIX/releases/download/V1.0/KHFMSpanishMix_Cinematicas_EN.zip)  
+- [**Canciones en Japonés**](https://github.com/EcosDelDoblaje/KHESPMIX/releases/download/V1.0/KHFMSpanishMix_Cinematicas_JP.zip)  
 
 Descomprime el archivo ZIP de tu elección en la carpeta de instalación del juego:
 
@@ -131,10 +134,6 @@ Si encuentras algún error, ¡no dudes en comentármelo!
 - **Letra:** [Charm](https://www.instagram.com/charmofficialmusic/)
 - **Mezcla y Mastering:** [OCOA](https://www.instagram.com/ocoa.music/)
 
-### Vídeos RRSS
-
-- [Eidan Albert](https://www.instagram.com/_trifulkas_?igsh=cTh6b3EzbDdta2gx)
-
 ### ©️ Copyright
 
 No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos reservados a Disney y Square Enix.
@@ -145,6 +144,7 @@ No tenemos ninguna afiliación con la marca Kingdom Hearts. Todos los derechos r
 
 ¡Gracias por su comprensión!
 
+---
 
 ## Aviso Legal y Derechos de Uso
 
