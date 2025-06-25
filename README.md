@@ -175,8 +175,6 @@ Las texturas incluidas en este repositorio han sido editadas únicamente para fi
 
 Este proyecto es un mod de fans, sin ánimo de lucro y sin relación oficial con Square Enix ni Disney.
 
-Si eres titular de derechos y deseas la retirada de algún contenido, contacta a [tu email/contacto].
-
 ---
 
 Este proyecto NO tiene licencia abierta. Todos los derechos reservados.
