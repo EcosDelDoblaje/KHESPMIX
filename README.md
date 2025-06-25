@@ -66,7 +66,7 @@ Descomprime el archivo ZIP de tu elección en la carpeta de instalación del jue
 
 Estamos trabajando en doblar KHFM al completo.
 
-Si encuentras algún error, ¡no dudes en comentármelo!
+Si encuentras algún error, Escribenoslos en [Issues](https://github.com/EcosDelDoblaje/KHESPMIX/issues) o envianos un correo a info@ecosdeldoblaje.es
 
 ## CREDITOS
 
