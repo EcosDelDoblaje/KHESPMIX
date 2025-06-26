@@ -12216,3 +12216,51 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_1630.mdls/an00ex08.win32.scd
+- name: remastered/po00_01.img/-38503.dds
+  method: copy
+  source:
+  - name: remastered/po00_01.img/-38503.dds
+- name: remastered/po00_01.img/-58504.dds
+  method: copy
+  source:
+  - name: remastered/po00_01.img/-58504.dds
+- name: remastered/po00_02.img/-111da1.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-111da1.dds
+- name: remastered/po00_02.img/-51da3.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-51da3.dds
+- name: remastered/po00_02.img/-51da4.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-51da4.dds
+- name: remastered/po00_02.img/-51da5.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-51da5.dds
+- name: remastered/po00_02.img/-51da8.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-51da8.dds
+- name: remastered/po00_02.img/-61da9.dds
+  method: copy
+  source:
+  - name: remastered/po00_02.img/-61da9.dds
+- name: remastered/po01.ard/-552c1.dds
+  method: copy
+  source:
+  - name: remastered/po01.ard/-552c1.dds
+- name: remastered/po01.ard/64d00.dds
+  method: copy
+  source:
+  - name: remastered/po01.ard/64d00.dds
+- name: remastered/po02.ard/-4f041.dds
+  method: copy
+  source:
+  - name: remastered/po02.ard/-4f041.dds
+- name: remastered/po02.ard/-5ea80.dds
+  method: copy
+  source:
+  - name: remastered/po02.ard/-5ea80.dds
