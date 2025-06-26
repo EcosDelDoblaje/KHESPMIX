@@ -12264,3 +12264,7 @@ assets:
   method: copy
   source:
   - name: remastered/po02.ard/-5ea80.dds
+- name: remastered/po00_01.img/-88501.dds
+  method: copy
+  source:
+  - name: remastered/po00_01.img/-88501.dds
