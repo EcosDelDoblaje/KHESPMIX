@@ -40,8 +40,8 @@
 **📜 Subtitulos adaptados al doblaje: 🕒45%**
 
 ## ⚙️ Instrucciones de instalación
-### OpenKH(método preferido):
 
+### OpenKH(método preferido):
 1. Abre `OpenKh.Tools.ModsManager.exe`. Puedes descargarlo desde [aquí](https://github.com/OpenKH/OpenKh/releases/download/latest/openkh.zip).
 2. Si es la primera vez que lo usas, configúralo para que detecte tu instalación del juego, asegúrate de que tenga Panacea instalado, Lua Backend instalado y configurado, y que *Kingdom Hearts* esté extraído.
 3. Selecciona `Kingdom hearts 1` en la pestaña de arriba a la izquierda.
@@ -49,8 +49,18 @@
 5. Marca el Mod con la X, si no está marcado.
 6. En `Mod Loader`, selecciona `Build and Run` (o `Build Only` y abre el juego normal).
 7. ¡Disfruta!
-   
- **❗❗EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES❗❗**
+
+**❗❗EN ESTA APLICACIÓN SALDRA SI EL MOD TIENE ACTUALIZACIONES❗❗**
+
+### KH PC Patch Manager(método antiguo):
+1. Descargamos el [mod](https://github.com/EcosDelDoblaje/KHESPMIX/releases/download/V1.0/EcosDelDoblajeKHESPMIX.kh1pcpatch).
+2. Lo descomprimimos en una carpeta nueva que creemos.
+3. Descargamos la última versión del [KHPCPatchManager.exe﻿﻿﻿﻿](https://github.com/AntonioDePau/KHPCPatchManager/releases/) y las ponemos en la carpeta descomprimida anteriormente.
+4. Abrimos KHPCPatchManager.exe, seleccionamos la opción Select Patch y escogemos el archivo EcosDelDoblajeKHESPMIX.kh1pcpatch.
+5. Si todo va bien, podremos pulsar la opción Apply Patch. Lo hacemos y, si no lo hace automáticamente, nos pedirá la ubicación donde se encuentra nuestro juego (por ejemplo, C:\KH_1.5_2.5\).
+6. Esperamos hasta que diga "Patch applied!", finalmente cerramos el programa.
+7. Copiamos la carpeta STEAM (o EPIC, según la versión del juego) que habrá en nuestra carpeta descomprimida del mod a la carpeta del juego. Nos pedirá sobrescribir y aceptamos.
+8. ¡Disfruta!
 
 ### 🎞️ Instrucciones videos (opcionales):
 
