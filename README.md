@@ -59,8 +59,7 @@
 4. Abrimos KHPCPatchManager.exe, seleccionamos la opción Select Patch y escogemos el archivo EcosDelDoblajeKHESPMIX.kh1pcpatch.
 5. Si todo va bien, podremos pulsar la opción Apply Patch. Lo hacemos y, si no lo hace automáticamente, nos pedirá la ubicación donde se encuentra nuestro juego (por ejemplo, C:\KH_1.5_2.5\).
 6. Esperamos hasta que diga "Patch applied!", finalmente cerramos el programa.
-7. Copiamos la carpeta STEAM (o EPIC, según la versión del juego) que habrá en nuestra carpeta descomprimida del mod a la carpeta del juego. Nos pedirá sobrescribir y aceptamos.
-8. ¡Disfruta!
+7. ¡Disfruta!
 
 ### 🎞️ Instrucciones videos (opcionales):
 
