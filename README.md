@@ -8,7 +8,7 @@
 
 [**Web**](https://www.ecosdeldoblaje.es/)
 
-[**NexusMod**](#)
+[**NexusMod**](https://www.nexusmods.com/kingdomheartsfinalmix/mods/187)
 
 ### 🎮 Descripción:
 
