@@ -12276,3 +12276,47 @@ assets:
   method: copy
   source:
   - name: remastered/he01.ard/-118c0.dds
+- name: remastered/xa_ex_1160.mdls/rk03at00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03at00.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03at01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03at01.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03at02.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03at02.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03at06.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03at06.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da00.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da00.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da01.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da01.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da03.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da03.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da04.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da04.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da05.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da05.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da07.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da07.win32.scd
+- name: remastered/xa_ex_1160.mdls/rk03da0b.win32.scd
+  method: copy
+  source:
+  - name: remastered/xa_ex_1160.mdls/rk03da0b.win32.scd
