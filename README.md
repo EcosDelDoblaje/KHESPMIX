@@ -98,7 +98,7 @@ Si encuentras algún error, Escribenoslos en [Issues](https://github.com/EcosDel
 - **Mickey, Piglet, Leon:** [Minerva](https://www.youtube.com/@FENIXDUBS)
 - **Goofy:** [Sedka](https://www.instagram.com/sedka_/?hl=es)
 - **Donald:** [Yakko](https://www.instagram.com/yakkofandubs1/)
-- **Minnie:** [María Guerra](https://www.instagram.com/kaedh4ras?igsh=MXUxMXUzaGo0YTlkNg==)
+- **Minnie:** [María Guerra](https://www.instagram.com/merydubss_)
 - **Selphie/R.Corazones:** [Gini-Gini](https://x.com/_GiniGini_)
 - **Wakka:** [Jildo](https://youtube.com/@sonjildodubs1115?si=ZjOyISdlPaRz49h6)
 - **Aeris:** [BiBi Rodríguez](https://www.instagram.com/bibi.rodriguez._/)
